@@ -1,0 +1,55 @@
+*{
+    margin: 5px;
+    padding:2px;
+    box-sizing: border-box;
+ }
+
+ body {
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    background-color: white;
+     justify-content: center;
+
+ }
+  .container{
+    border: double black;
+    width: 600px;
+    background-color: rgba(240, 234, 234, 0.171);
+    text-transform: capitalize;
+    border-radius: 10px;
+
+  }
+
+  h1{
+    text-align: center;
+    text-decoration: underline;
+  }
+
+ 
+ .form-container{
+    margin-top: 0%;
+    padding: 10px;
+    margin: 50px;
+    font-size: 1.5rem;
+ }
+
+.form-control:hover{
+    color: blue;
+}
+
+.form-container{
+    cursor: pointer;
+}
+
+button{
+    background-color: rgb(123, 226, 230);
+    width: 100px;
+    width: 100px;
+}
+
+
+
+
+
+ 
